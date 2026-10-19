@@ -1,0 +1,11 @@
+{
+  "drivers_evaluated": 379.0,
+  "valid_plans": 198.0,
+  "median_regret_all_s": 0.0,
+  "mean_regret_all_s": 1.804682232192068,
+  "green_flag_plans": 58.0,
+  "median_regret_green_s": 0.0,
+  "mean_regret_green_s": 2.5979033336146116,
+  "p90_regret_green_s": 11.656636583900458,
+  "stop_count_agreement": 0.8620689655172413
+}

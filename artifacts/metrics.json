@@ -1,0 +1,85 @@
+{
+  "fuel_effect_s_per_kg": 0.03593,
+  "sample": {
+    "laps": 16097.0,
+    "races": 21.0,
+    "drivers": 25.0,
+    "stints": 824.0,
+    "median_delta": 0.5885382954386529,
+    "p95_delta": 2.5969980673607007
+  },
+  "cross_validation": [
+    {
+      "model": "ridge",
+      "mae_s": 0.6896,
+      "rmse_s": 0.9504,
+      "r2": 0.2159,
+      "laps": 16097
+    },
+    {
+      "model": "forest",
+      "mae_s": 0.7193,
+      "rmse_s": 0.9876,
+      "r2": 0.1534,
+      "laps": 16097
+    },
+    {
+      "model": "xgboost",
+      "mae_s": 0.7151,
+      "rmse_s": 0.9814,
+      "r2": 0.1639,
+      "laps": 16097
+    }
+  ],
+  "holdout": {
+    "model": "xgboost",
+    "mae_s": 0.699,
+    "rmse_s": 0.9789,
+    "r2": 0.0782,
+    "laps": 2933
+  },
+  "binned": {
+    "binned_mae_s": 0.2501,
+    "bins": 22.0
+  },
+  "binned_train": {
+    "binned_mae_s": 0.0221,
+    "bins": 26.0
+  },
+  "per_compound": [
+    {
+      "compound": "SOFT",
+      "laps": 22,
+      "mae_s": 1.467,
+      "bias_s": 1.467
+    },
+    {
+      "compound": "MEDIUM",
+      "laps": 946,
+      "mae_s": 0.677,
+      "bias_s": -0.088
+    },
+    {
+      "compound": "HARD",
+      "laps": 1965,
+      "mae_s": 0.701,
+      "bias_s": 0.236
+    }
+  ],
+  "holdout_rounds": [
+    11,
+    16,
+    17,
+    23
+  ],
+  "feature_importance": {
+    "tyre_age": 0.489,
+    "tyre_age_sq": 0.2341,
+    "air_temp_delta": 0.0748,
+    "track_temp_delta": 0.0627,
+    "compound_soft": 0.0554,
+    "compound_medium": 0.0503,
+    "compound_hard": 0.0338
+  },
+  "residual_std_s": 0.9688
+}

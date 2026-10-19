@@ -1,0 +1,380 @@
+round,circuit,driver,lap,compound,tyre_age,best_cost,actual_cost,best_plan,actual_plan,best_stops,actual_stops,valid_actual,clean_after
+1,Sakhir,VER,30,HARD,12,32.25263214111328,42.12764953613281,no further stops,lap 37 to Soft,0,1,True,False
+1,Sakhir,SAR,30,HARD,1,20.457130432128906,36.014559736251826,no further stops,lap 40 to Soft,0,1,True,True
+1,Sakhir,RIC,30,HARD,16,40.82063125610351,43.72488044738769,lap 35 to Medium,lap 35 to Soft,1,1,True,True
+1,Sakhir,NOR,30,HARD,16,40.82063125610351,40.37746500015258,lap 35 to Medium,lap 33 to Hard,1,1,False,False
+1,Sakhir,GAS,30,HARD,17,40.95513986587524,56.948009531497945,lap 35 to Medium,"lap 31 to Hard, lap 43 to Soft",1,2,False,True
+1,Sakhir,PER,30,HARD,17,40.95513986587524,43.5526745223999,lap 35 to Medium,lap 36 to Soft,1,1,True,False
+1,Sakhir,ALO,30,HARD,14,34.66843032836914,40.57888626098632,no further stops,lap 41 to Hard,0,1,False,False
+1,Sakhir,LEC,30,HARD,18,41.100677719116206,40.56812976837158,lap 35 to Medium,lap 34 to Hard,1,1,False,False
+1,Sakhir,STR,30,HARD,2,21.769136428833008,21.769136428833008,no further stops,no further stops,0,0,True,False
+1,Sakhir,MAG,30,HARD,18,41.100677719116206,40.59865175724029,lap 35 to Medium,lap 32 to Hard,1,1,False,True
+1,Sakhir,TSU,30,HARD,15,40.64434265136718,40.18739174842834,lap 36 to Medium,lap 34 to Hard,1,1,False,True
+1,Sakhir,ALB,30,HARD,14,34.66843032836914,39.89750885009765,no further stops,lap 36 to Hard,0,1,False,True
+1,Sakhir,ZHO,30,HARD,1,20.457130432128906,20.457130432128906,no further stops,no further stops,0,0,True,True
+1,Sakhir,HUL,30,HARD,9,29.23824691772461,40.13257431030273,no further stops,lap 41 to Soft,0,1,True,True
+1,Sakhir,OCO,30,HARD,19,41.25049900054931,43.66193771362305,lap 35 to Medium,no further stops,1,0,False,True
+1,Sakhir,HAM,30,HARD,17,40.95513986587524,40.45311426162719,lap 35 to Medium,lap 33 to Hard,1,1,False,False
+1,Sakhir,SAI,30,HARD,15,40.64434265136718,40.1285326385498,lap 36 to Medium,lap 35 to Hard,1,1,False,False
+1,Sakhir,RUS,30,HARD,18,41.100677719116206,40.690932264328,lap 35 to Medium,lap 31 to Hard,1,1,False,False
+1,Sakhir,BOT,30,HARD,17,40.95513986587524,39.382389068603516,lap 35 to Medium,no further stops,1,0,False,True
+1,Sakhir,PIA,30,HARD,17,40.95513986587524,40.42227124214172,lap 35 to Medium,lap 34 to Hard,1,1,False,False
+2,Jeddah,VER,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,SAR,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,True
+2,Jeddah,RIC,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,True
+2,Jeddah,GAS,1,MEDIUM,0,52.23782186126709,63.649940490722656,lap 25 to Hard,no further stops,1,0,False,True
+2,Jeddah,PER,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,ALO,30,HARD,23,32.39198236083985,30.749929428100586,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,LEC,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,STR,5,MEDIUM,5,52.70243482208252,66.06118774414062,lap 24 to Hard,no further stops,1,0,False,True
+2,Jeddah,MAG,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,TSU,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,True
+2,Jeddah,ALB,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,OCO,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,True
+2,Jeddah,BEA,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,RUS,30,HARD,22,32.17434625244141,29.281665802001953,lap 34 to Medium,no further stops,1,0,False,False
+2,Jeddah,BOT,30,HARD,22,32.17434625244141,33.48563603973389,lap 34 to Medium,lap 35 to Soft,1,1,True,True
+2,Jeddah,PIA,30,HARD,23,32.39198236083985,30.749929428100586,lap 34 to Medium,no further stops,1,0,False,False
+3,Melbourne,VER,3,MEDIUM,2,61.86923937988281,87.91686248779297,lap 29 to Hard,no further stops,1,0,False,True
+3,Melbourne,RIC,30,HARD,1,21.79892921447754,21.79892921447754,no further stops,no further stops,0,0,True,True
+3,Melbourne,NOR,30,HARD,17,39.24651770782471,39.55141501617432,lap 36 to Medium,lap 40 to Hard,1,1,False,False
+3,Melbourne,GAS,30,HARD,13,35.44116973876953,38.35231213760376,no further stops,lap 41 to Hard,0,1,False,True
+3,Melbourne,PER,30,HARD,16,39.11232953262329,38.57946067047119,lap 36 to Medium,lap 35 to Hard,1,1,False,False
+3,Melbourne,ALO,30,MEDIUM,14,38.2906251449585,38.904360820770265,lap 36 to Hard,lap 41 to Hard,1,1,True,False
+3,Melbourne,LEC,30,HARD,21,39.69873194885254,39.13245253753662,lap 34 to Medium,lap 34 to Hard,1,1,False,False
+3,Melbourne,STR,30,HARD,23,40.117694427490235,40.37494521331787,lap 34 to Medium,lap 37 to Hard,1,1,False,False
+3,Melbourne,MAG,30,HARD,23,40.117694427490235,39.33377819252014,lap 34 to Medium,lap 33 to Hard,1,1,False,True
+3,Melbourne,TSU,30,HARD,21,39.69873194885254,39.551415969848634,lap 34 to Medium,lap 36 to Hard,1,1,False,False
+3,Melbourne,ALB,30,HARD,3,24.335023880004883,24.335023880004883,no further stops,no further stops,0,0,True,True
+3,Melbourne,ZHO,30,HARD,25,40.590374519348146,40.310679962158204,lap 34 to Medium,lap 35 to Hard,1,1,False,True
+3,Melbourne,HUL,30,MEDIUM,13,38.05450873565674,38.19513659667969,lap 37 to Hard,lap 35 to Hard,1,1,True,False
+3,Melbourne,OCO,30,HARD,14,38.67385344696045,39.071910430908204,lap 37 to Medium,lap 42 to Hard,1,1,False,True
+3,Melbourne,HAM,15,HARD,8,52.39119486999512,67.39627838134766,lap 32 to Medium,no further stops,1,0,False,True
+3,Melbourne,SAI,30,HARD,14,38.67385344696045,38.68019013595581,lap 37 to Medium,lap 41 to Hard,1,1,False,False
+3,Melbourne,RUS,30,HARD,22,39.9000583190918,44.52905755233765,lap 34 to Medium,lap 45 to Hard,1,1,False,True
+3,Melbourne,BOT,30,HARD,22,39.9000583190918,39.78259711456299,lap 34 to Medium,lap 36 to Hard,1,1,False,True
+3,Melbourne,PIA,30,HARD,22,39.9000583190918,40.821368743896485,lap 34 to Medium,lap 39 to Hard,1,1,False,False
+4,Suzuka,VER,30,MEDIUM,13,34.09251831245422,34.09251831245422,lap 34 to Hard,lap 34 to Hard,1,1,True,False
+4,Suzuka,SAR,30,HARD,7,21.84084129333496,50.13881513023376,no further stops,"lap 34 to Medium, lap 41 to Soft",0,2,True,True
+4,Suzuka,NOR,30,HARD,3,17.75192642211914,17.75192642211914,no further stops,no further stops,0,0,True,False
+4,Suzuka,GAS,30,MEDIUM,13,34.09251831245422,34.16037569713592,lap 34 to Hard,lap 32 to Hard,1,1,False,True
+4,Suzuka,PER,30,MEDIUM,14,34.234091264724725,34.20965645980834,lap 34 to Hard,lap 33 to Hard,1,1,False,False
+4,Suzuka,ALO,30,MEDIUM,16,34.463681680679315,34.35534070205688,lap 34 to Hard,lap 33 to Hard,1,1,False,False
+4,Suzuka,LEC,30,HARD,3,17.75192642211914,17.75192642211914,no further stops,no further stops,0,0,True,False
+4,Suzuka,STR,30,HARD,7,21.84084129333496,35.27619932365417,no further stops,lap 34 to Soft,0,1,True,True
+4,Suzuka,MAG,30,HARD,7,21.84084129333496,21.84084129333496,no further stops,no further stops,0,0,True,True
+4,Suzuka,TSU,30,HARD,7,21.84084129333496,21.84084129333496,no further stops,no further stops,0,0,True,True
+4,Suzuka,ZHO,12,HARD,4,48.25341914367675,50.58076095581055,lap 31 to Medium,no further stops,1,0,False,True
+4,Suzuka,HUL,30,HARD,24,36.03351233673095,35.17358873558044,lap 34 to Medium,lap 33 to Hard,1,1,False,True
+4,Suzuka,OCO,30,HARD,10,24.076711654663086,34.077753765106195,no further stops,lap 33 to Medium,0,1,False,True
+4,Suzuka,HAM,30,HARD,6,20.941085815429688,32.40437768173217,no further stops,lap 39 to Medium,0,1,True,False
+4,Suzuka,SAI,30,MEDIUM,15,34.33911059570312,34.5635707206726,lap 34 to Hard,lap 36 to Hard,1,1,True,False
+4,Suzuka,RUS,30,HARD,7,21.84084129333496,32.77776454162597,no further stops,lap 37 to Medium,0,1,True,False
+4,Suzuka,BOT,30,HARD,7,21.84084129333496,21.84084129333496,no further stops,no further stops,0,0,True,True
+4,Suzuka,PIA,30,HARD,17,30.115028381347656,34.3666655845642,no further stops,lap 32 to Hard,0,1,False,False
+5,Shanghai,VER,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,SAR,30,HARD,5,23.940160751342773,23.940160751342773,no further stops,no further stops,0,0,True,False
+5,Shanghai,RIC,30,MEDIUM,15,38.571902908325185,34.10116958618164,lap 35 to Hard,no further stops,1,0,False,False
+5,Shanghai,NOR,30,HARD,7,25.740215301513672,25.740215301513672,no further stops,no further stops,0,0,True,False
+5,Shanghai,GAS,30,HARD,6,24.89687156677246,36.371009983062734,no further stops,lap 38 to Medium,0,1,True,False
+5,Shanghai,PER,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,ALO,30,SOFT,6,36.77282968902587,38.97599188232421,lap 37 to Hard,lap 43 to Medium,1,1,True,False
+5,Shanghai,LEC,30,HARD,8,26.56218910217285,26.56218910217285,no further stops,no further stops,0,0,True,False
+5,Shanghai,STR,30,MEDIUM,3,22.29888153076172,35.62166670703887,no further stops,lap 35 to Hard,0,1,True,False
+5,Shanghai,MAG,30,MEDIUM,2,21.019445419311523,21.019445419311523,no further stops,no further stops,0,0,True,False
+5,Shanghai,TSU,26,HARD,2,25.72492027282715,25.72492027282715,no further stops,no further stops,0,0,True,True
+5,Shanghai,ALB,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,ZHO,30,HARD,6,24.89687156677246,37.22596422576903,no further stops,lap 40 to Soft,0,1,True,False
+5,Shanghai,HUL,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,OCO,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,HAM,30,HARD,8,26.56218910217285,26.56218910217285,no further stops,no further stops,0,0,True,False
+5,Shanghai,SAI,30,HARD,12,30.582366943359375,30.582366943359375,no further stops,no further stops,0,0,True,False
+5,Shanghai,RUS,30,HARD,6,24.89687156677246,24.89687156677246,no further stops,no further stops,0,0,True,False
+5,Shanghai,BOT,19,HARD,9,48.52761045837401,51.56504821777344,lap 34 to Medium,no further stops,1,0,False,True
+5,Shanghai,PIA,30,HARD,5,23.940160751342773,23.940160751342773,no further stops,no further stops,0,0,True,False
+6,Miami,VER,30,HARD,6,26.193923950195312,26.193923950195312,no further stops,no further stops,0,0,True,False
+6,Miami,SAR,27,HARD,15,43.18051077270508,44.2508544921875,lap 35 to Medium,no further stops,1,0,False,True
+6,Miami,RIC,30,MEDIUM,6,36.92029405975342,26.790674209594727,lap 40 to Hard,no further stops,1,0,False,False
+6,Miami,NOR,30,HARD,0,19.185333251953125,19.185333251953125,no further stops,no further stops,0,0,True,False
+6,Miami,GAS,30,HARD,17,40.30413986587524,39.382389068603516,lap 35 to Medium,no further stops,1,0,False,False
+6,Miami,PER,30,MEDIUM,6,36.92029405975342,26.790674209594727,lap 40 to Hard,no further stops,1,0,False,False
+6,Miami,ALO,30,MEDIUM,8,37.750282062530516,28.66946792602539,lap 38 to Hard,no further stops,1,0,False,False
+6,Miami,LEC,30,HARD,10,30.23532485961914,30.23532485961914,no further stops,no further stops,0,0,True,False
+6,Miami,STR,30,MEDIUM,1,21.07215118408203,21.07215118408203,no further stops,no further stops,0,0,True,False
+6,Miami,MAG,30,MEDIUM,1,21.07215118408203,39.7829826272428,no further stops,lap 31 to Medium,0,1,False,False
+6,Miami,TSU,30,HARD,1,20.457130432128906,20.457130432128906,no further stops,no further stops,0,0,True,False
+6,Miami,ALB,30,HARD,19,40.599499000549315,55.20537437343597,lap 35 to Medium,lap 53 to Soft,1,1,False,False
+6,Miami,ZHO,30,SOFT,1,34.20812441253662,26.176414489746094,lap 41 to Hard,no further stops,1,0,False,False
+6,Miami,HUL,30,MEDIUM,1,21.07215118408203,21.07215118408203,no further stops,no further stops,0,0,True,False
+6,Miami,OCO,30,HARD,7,27.070934295654297,27.070934295654297,no further stops,no further stops,0,0,True,False
+6,Miami,HAM,30,MEDIUM,6,36.92029405975342,26.790674209594727,lap 40 to Hard,no further stops,1,0,False,False
+6,Miami,SAI,30,HARD,2,21.769136428833008,21.769136428833008,no further stops,no further stops,0,0,True,False
+6,Miami,RUS,30,HARD,5,25.23754119873047,25.23754119873047,no further stops,no further stops,0,0,True,False
+6,Miami,BOT,30,MEDIUM,0,19.808406829833984,19.808406829833984,no further stops,no further stops,0,0,True,False
+6,Miami,PIA,30,HARD,2,21.769136428833008,34.7078325881958,no further stops,lap 40 to Medium,0,1,True,False
+7,Imola,VER,30,HARD,5,34.362548828125,34.362548828125,no further stops,no further stops,0,0,True,False
+7,Imola,SAR,30,HARD,29,53.891714763641346,54.0863831758499,lap 34 to Medium,lap 31 to Medium,1,1,False,True
+7,Imola,RIC,30,HARD,18,51.979279232025135,59.87385559082031,lap 37 to Medium,no further stops,1,0,False,True
+7,Imola,NOR,30,HARD,8,38.654998779296875,38.654998779296875,no further stops,no further stops,0,0,True,False
+7,Imola,GAS,30,HARD,21,52.863140296936024,66.08934783935547,lap 36 to Medium,no further stops,1,0,False,True
+7,Imola,PER,30,HARD,29,53.891714763641346,54.51225204467772,lap 34 to Medium,lap 37 to Medium,1,1,True,False
+7,Imola,ALO,30,HARD,23,53.33568592071532,77.73616292476652,lap 35 to Medium,"lap 40 to Medium, lap 59 to Soft",1,2,True,True
+7,Imola,LEC,30,HARD,4,32.92841339111328,32.92841339111328,no further stops,no further stops,0,0,True,False
+7,Imola,TSU,30,HARD,17,51.776271057128895,57.73622512817383,lap 38 to Medium,no further stops,1,0,False,True
+7,Imola,ALB,30,MEDIUM,9,48.991101455688465,40.68861389160156,lap 41 to Hard,no further stops,1,0,False,True
+7,Imola,ZHO,30,HARD,29,53.891714763641346,53.97913665771483,lap 34 to Medium,lap 33 to Medium,1,1,False,True
+7,Imola,HUL,30,HARD,16,51.60834140777587,55.60993957519531,lap 38 to Medium,no further stops,1,0,False,True
+7,Imola,OCO,30,HARD,4,32.92841339111328,32.92841339111328,no further stops,no further stops,0,0,True,True
+7,Imola,HAM,30,HARD,2,29.94965934753418,29.94965934753418,no further stops,no further stops,0,0,True,False
+7,Imola,SAI,30,HARD,2,29.94965934753418,29.94965934753418,no further stops,no further stops,0,0,True,False
+7,Imola,RUS,30,HARD,8,38.654998779296875,52.084835958480824,no further stops,lap 52 to Medium,0,1,True,False
+7,Imola,BOT,30,HARD,21,52.863140296936024,66.08934783935547,lap 36 to Medium,no further stops,1,0,False,True
+7,Imola,PIA,30,HARD,7,37.224849700927734,37.224849700927734,no further stops,no further stops,0,0,True,False
+8,Monte Carlo,SAR,30,HARD,30,70.70757053375246,96.37009452819825,"lap 34 to Medium, lap 56 to Hard",lap 57 to Medium,2,1,False,True
+8,Monte Carlo,RIC,30,HARD,30,70.70757053375246,128.65643310546875,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,True
+8,Monte Carlo,NOR,30,HARD,29,70.73031328201296,126.95092010498047,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,False
+8,Monte Carlo,LEC,30,HARD,29,70.73031328201296,126.95092010498047,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,False
+8,Monte Carlo,TSU,30,HARD,30,70.70757053375246,128.65643310546875,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,True
+8,Monte Carlo,ALB,30,HARD,29,70.73031328201296,126.95092010498047,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,True
+8,Monte Carlo,ZHO,30,HARD,29,70.73031328201296,124.34561060905457,"lap 34 to Medium, lap 56 to Hard",lap 70 to Soft,2,1,False,True
+8,Monte Carlo,SAI,30,HARD,29,70.73031328201296,126.95092010498047,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,False
+8,Monte Carlo,BOT,30,HARD,16,63.582153549194345,101.4945297241211,lap 48 to Medium,no further stops,1,0,False,True
+8,Monte Carlo,PIA,30,HARD,30,70.70757053375246,128.65643310546875,"lap 34 to Medium, lap 56 to Hard",no further stops,2,0,False,False
+10,Catalunya,VER,30,MEDIUM,12,47.60452439117432,51.34155918884278,lap 41 to Hard,lap 44 to Soft,1,1,True,False
+10,Catalunya,SAR,30,MEDIUM,15,48.51770474243165,49.91473175811768,lap 40 to Hard,lap 34 to Hard,1,1,True,True
+10,Catalunya,RIC,30,MEDIUM,13,47.92484356689454,47.98231388854981,lap 41 to Hard,lap 42 to Hard,1,1,True,True
+10,Catalunya,NOR,30,MEDIUM,6,44.800560729980475,47.43166806030274,lap 44 to Hard,lap 47 to Soft,1,1,True,False
+10,Catalunya,GAS,30,MEDIUM,15,48.51770474243165,48.86212565231324,lap 40 to Hard,lap 38 to Hard,1,1,True,False
+10,Catalunya,PER,30,SOFT,19,51.73216559219361,62.926222597122205,lap 34 to Hard,"lap 31 to Medium, lap 49 to Soft",1,2,False,False
+10,Catalunya,ALO,30,MEDIUM,11,47.231869476318366,47.5800216369629,lap 41 to Hard,lap 45 to Hard,1,1,True,True
+10,Catalunya,LEC,30,MEDIUM,5,44.13198067474366,46.71485211181641,lap 45 to Hard,lap 47 to Soft,1,1,True,False
+10,Catalunya,STR,30,MEDIUM,13,47.92484356689454,48.57203270721436,lap 41 to Hard,lap 37 to Hard,1,1,True,True
+10,Catalunya,MAG,30,HARD,0,31.62148666381836,31.62148666381836,no further stops,no further stops,0,0,True,True
+10,Catalunya,TSU,30,HARD,2,34.84992980957031,44.921309726715094,no further stops,lap 44 to Soft,0,1,True,True
+10,Catalunya,ALB,30,SOFT,11,49.568526046752936,54.514186637878424,lap 38 to Hard,lap 43 to Soft,1,1,False,True
+10,Catalunya,ZHO,30,MEDIUM,20,50.20798470306397,50.672097938537604,lap 37 to Hard,lap 41 to Hard,1,1,True,True
+10,Catalunya,HUL,30,MEDIUM,17,49.21320511627198,49.21320511627198,lap 38 to Hard,lap 38 to Hard,1,1,True,False
+10,Catalunya,OCO,30,MEDIUM,16,48.88540341186524,49.25967957305909,lap 39 to Hard,lap 37 to Hard,1,1,True,False
+10,Catalunya,HAM,30,MEDIUM,13,47.92484356689454,51.98132397460938,lap 41 to Hard,lap 43 to Soft,1,1,True,False
+10,Catalunya,SAI,30,MEDIUM,14,48.22554470825196,49.11391331481934,lap 40 to Hard,lap 36 to Hard,1,1,True,False
+10,Catalunya,RUS,30,MEDIUM,14,48.22554470825196,49.11391331481934,lap 40 to Hard,lap 36 to Hard,1,1,True,False
+10,Catalunya,BOT,30,HARD,1,33.21038055419922,33.21038055419922,no further stops,no further stops,0,0,True,True
+10,Catalunya,PIA,30,MEDIUM,8,45.89680935668946,48.77429844665528,lap 43 to Hard,lap 46 to Soft,1,1,True,False
+11,Spielberg,VER,30,HARD,6,48.77264075469972,64.52693472290042,lap 48 to Medium,"lap 51 to Medium, lap 64 to Soft",1,2,True,False
+11,Spielberg,SAR,30,HARD,9,50.54298739624025,51.142648269653336,lap 46 to Medium,lap 49 to Medium,1,1,True,False
+11,Spielberg,RIC,30,HARD,19,55.502524902343765,54.87139849853517,lap 44 to Medium,lap 37 to Hard,1,1,False,False
+11,Spielberg,NOR,30,HARD,6,48.77264075469972,49.26458983612062,lap 48 to Medium,lap 51 to Medium,1,1,True,True
+11,Spielberg,GAS,30,HARD,9,50.54298739624025,51.28836398315431,lap 46 to Medium,lap 42 to Medium,1,1,True,False
+11,Spielberg,PER,30,HARD,8,49.97872786712648,50.94231658172609,lap 46 to Medium,lap 51 to Medium,1,1,True,False
+11,Spielberg,ALO,30,MEDIUM,18,54.64392905426027,71.50634338939193,lap 38 to Hard,"lap 35 to Hard, lap 68 to Soft",1,2,False,False
+11,Spielberg,LEC,30,MEDIUM,13,52.479100753784195,62.58159861946108,lap 43 to Hard,"lap 33 to Medium, lap 51 to Medium",1,2,False,False
+11,Spielberg,STR,30,MEDIUM,9,50.299521972656265,50.68402056884767,lap 45 to Hard,lap 43 to Hard,1,1,True,False
+11,Spielberg,MAG,30,HARD,19,55.502524902343765,54.85886054229738,lap 44 to Medium,lap 38 to Hard,1,1,False,False
+11,Spielberg,TSU,30,HARD,8,49.97872786712648,49.630444099426285,lap 46 to Medium,lap 44 to Hard,1,1,False,False
+11,Spielberg,ALB,30,HARD,17,54.718435813903824,54.11536174011232,lap 42 to Medium,lap 39 to Hard,1,1,False,False
+11,Spielberg,ZHO,30,MEDIUM,1,44.22965865325929,44.32159476470949,lap 49 to Hard,lap 51 to Hard,1,1,True,False
+11,Spielberg,HUL,30,HARD,18,55.12252955627443,54.47853617858888,lap 44 to Medium,lap 39 to Hard,1,1,False,False
+11,Spielberg,OCO,30,HARD,10,51.048935462951675,51.48193316650392,lap 45 to Medium,lap 43 to Medium,1,1,True,False
+11,Spielberg,HAM,30,HARD,8,49.97872786712648,51.72202162933351,lap 46 to Medium,lap 53 to Medium,1,1,True,False
+11,Spielberg,SAI,30,HARD,7,49.40320353698732,49.40320353698732,lap 47 to Medium,lap 47 to Medium,1,1,True,False
+11,Spielberg,RUS,30,MEDIUM,7,49.22185282897951,49.22185282897951,lap 46 to Hard,lap 46 to Hard,1,1,True,False
+11,Spielberg,BOT,30,HARD,10,51.048935462951675,51.05857806396486,lap 45 to Medium,lap 42 to Hard,1,1,False,False
+11,Spielberg,PIA,30,HARD,4,47.19841914367677,47.287426521301285,lap 49 to Medium,lap 51 to Medium,1,1,True,False
+12,Silverstone,VER,26,MEDIUM,25,53.28338007354738,57.4014206352234,lap 30 to Hard,lap 38 to Hard,1,1,False,False
+12,Silverstone,SAR,27,MEDIUM,26,52.35123209381105,57.15246920013429,lap 31 to Hard,lap 38 to Soft,1,1,False,False
+12,Silverstone,RIC,26,MEDIUM,25,53.28338007354738,57.81330446624757,lap 30 to Hard,lap 37 to Soft,1,1,False,True
+12,Silverstone,NOR,27,MEDIUM,26,52.35123209381105,57.89873127365114,lap 31 to Hard,lap 39 to Soft,1,1,False,False
+12,Silverstone,ALO,27,MEDIUM,26,52.35123209381105,56.465220016479506,lap 31 to Hard,lap 38 to Medium,1,1,False,False
+12,Silverstone,STR,26,MEDIUM,25,53.28338007354738,58.65043692016603,lap 30 to Hard,lap 39 to Medium,1,1,False,False
+12,Silverstone,MAG,27,MEDIUM,26,52.35123209381105,56.521051925659194,lap 31 to Hard,lap 37 to Soft,1,1,False,False
+12,Silverstone,TSU,27,MEDIUM,26,52.35123209381105,57.15246920013429,lap 31 to Hard,lap 38 to Soft,1,1,False,False
+12,Silverstone,ALB,27,MEDIUM,26,52.35123209381105,56.465220016479506,lap 31 to Hard,lap 38 to Medium,1,1,False,False
+12,Silverstone,HUL,26,MEDIUM,25,53.28338007354738,59.19098476791383,lap 30 to Hard,lap 39 to Soft,1,1,False,False
+12,Silverstone,OCO,26,MEDIUM,4,23.52284049987793,48.59196571731569,no further stops,lap 38 to Medium,0,1,False,True
+12,Silverstone,HAM,27,MEDIUM,26,52.35123209381105,57.15246920013429,lap 31 to Hard,lap 38 to Soft,1,1,False,False
+12,Silverstone,SAI,26,MEDIUM,25,53.28338007354738,92.75911938595775,lap 30 to Hard,"lap 39 to Hard, lap 50 to Soft",1,2,False,False
+12,Silverstone,RUS,27,MEDIUM,26,52.35123209381105,51.24427032470703,lap 31 to Hard,no further stops,1,0,False,True
+12,Silverstone,BOT,26,MEDIUM,25,53.28338007354738,57.81330446624757,lap 30 to Hard,lap 37 to Soft,1,1,False,True
+12,Silverstone,PIA,28,MEDIUM,27,51.3480816307068,55.15697817230226,lap 32 to Hard,lap 38 to Medium,1,1,False,False
+13,Hungaroring,VER,30,HARD,8,48.44095738983154,48.87403520202636,lap 46 to Medium,lap 49 to Medium,1,1,True,False
+13,Hungaroring,SAR,30,HARD,21,54.31289514160156,65.69268171501159,lap 42 to Medium,"lap 33 to Hard, lap 63 to Soft",1,2,False,True
+13,Hungaroring,RIC,30,HARD,1,40.47529602050781,40.47529602050781,no further stops,no further stops,0,0,True,True
+13,Hungaroring,NOR,30,HARD,13,51.08940251922607,51.263433776855464,lap 44 to Medium,lap 45 to Medium,1,1,True,False
+13,Hungaroring,GAS,30,MEDIUM,1,42.74012406921386,41.05988693237305,lap 49 to Hard,no further stops,1,0,False,True
+13,Hungaroring,PER,30,MEDIUM,1,42.74012406921386,43.42963918304443,lap 49 to Hard,lap 47 to Medium,1,1,False,False
+13,Hungaroring,ALO,30,MEDIUM,23,54.26536687469482,54.41820748901367,lap 35 to Hard,lap 37 to Hard,1,1,True,False
+13,Hungaroring,LEC,30,HARD,6,47.23592408752441,48.90269311523437,lap 48 to Medium,lap 40 to Medium,1,1,True,False
+13,Hungaroring,STR,30,MEDIUM,16,52.099291168212886,52.563405357360836,lap 41 to Hard,lap 45 to Hard,1,1,True,False
+13,Hungaroring,MAG,30,HARD,23,54.83164533233642,54.451652847290035,lap 41 to Medium,lap 34 to Hard,1,1,False,True
+13,Hungaroring,TSU,30,HARD,0,38.56298065185547,38.56298065185547,no further stops,no further stops,0,0,True,False
+13,Hungaroring,ALB,30,HARD,0,38.56298065185547,38.56298065185547,no further stops,no further stops,0,0,True,True
+13,Hungaroring,ZHO,30,HARD,22,54.56780465698242,53.889221511840816,lap 41 to Medium,lap 36 to Hard,1,1,False,True
+13,Hungaroring,HUL,30,HARD,0,38.56298065185547,38.56298065185547,no further stops,no further stops,0,0,True,True
+13,Hungaroring,OCO,30,HARD,23,54.83164533233642,93.67753311252594,lap 41 to Medium,lap 64 to Soft,1,1,False,True
+13,Hungaroring,HAM,30,HARD,13,51.08940251922607,50.95468267059326,lap 44 to Medium,lap 40 to Hard,1,1,False,False
+13,Hungaroring,SAI,30,HARD,8,48.44095738983154,48.45730718231201,lap 46 to Medium,lap 47 to Medium,1,1,True,False
+13,Hungaroring,RUS,30,HARD,29,56.39287217712402,61.70631138992309,lap 38 to Medium,"lap 33 to Medium, lap 53 to Hard",1,2,False,False
+13,Hungaroring,BOT,30,HARD,13,51.08940251922607,50.67976125335693,lap 44 to Medium,lap 45 to Hard,1,1,False,True
+13,Hungaroring,PIA,30,HARD,12,50.54166062927246,51.173465095520015,lap 44 to Medium,lap 47 to Medium,1,1,True,False
+14,Spa-Francorchamps,VER,30,MEDIUM,1,6.958721160888672,6.958721160888672,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,SAR,30,HARD,5,9.742596626281738,9.742596626281738,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,RIC,30,HARD,9,12.081560134887695,12.081560134887695,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,NOR,30,HARD,0,5.83344841003418,5.83344841003418,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,GAS,30,HARD,1,6.61187744140625,6.61187744140625,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,PER,30,HARD,8,11.551043510437012,27.490667184114443,no further stops,lap 42 to Soft,0,1,False,False
+14,Spa-Francorchamps,ALO,30,HARD,16,15.663708686828613,15.663708686828613,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,LEC,30,HARD,4,9.060742378234863,9.060742378234863,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,STR,30,HARD,17,16.035961151123047,16.035961151123047,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,MAG,30,HARD,12,13.576883316040039,13.576883316040039,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,TSU,30,HARD,15,15.187049865722656,15.187049865722656,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,ALB,30,HARD,6,10.41026496887207,10.41026496887207,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,ZHO,5,HARD,4,42.81434397888182,44.906185150146484,lap 22 to Medium,no further stops,1,0,False,True
+14,Spa-Francorchamps,HUL,30,MEDIUM,9,12.404376029968262,12.404376029968262,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,OCO,30,HARD,17,16.035961151123047,16.035961151123047,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,HAM,30,HARD,3,8.299060821533203,8.299060821533203,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,SAI,30,HARD,1,6.61187744140625,6.61187744140625,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,RUS,30,HARD,19,16.791996002197266,16.791996002197266,no further stops,no further stops,0,0,True,False
+14,Spa-Francorchamps,BOT,30,HARD,18,16.41200065612793,25.083370973587023,no further stops,lap 35 to Medium,0,1,True,False
+14,Spa-Francorchamps,PIA,30,HARD,18,16.41200065612793,16.41200065612793,no further stops,no further stops,0,0,True,False
+15,Zandvoort,VER,30,HARD,2,48.2782180633545,47.773963928222656,lap 50 to Medium,no further stops,1,0,False,False
+15,Zandvoort,SAR,30,HARD,7,52.381974014282235,61.787071228027344,lap 47 to Medium,no further stops,1,0,False,True
+15,Zandvoort,RIC,30,HARD,0,46.214302810668954,42.67958450317383,lap 51 to Medium,no further stops,1,0,False,True
+15,Zandvoort,NOR,30,HARD,1,47.24081400299073,45.188148498535156,lap 50 to Medium,no further stops,1,0,False,False
+15,Zandvoort,PER,30,HARD,0,46.214302810668954,42.67958450317383,lap 51 to Medium,no further stops,1,0,False,False
+15,Zandvoort,LEC,30,HARD,5,51.00781229400636,56.46350860595703,lap 49 to Medium,no further stops,1,0,False,False
+15,Zandvoort,MAG,30,HARD,29,62.080476554870614,62.080476554870614,lap 40 to Medium,lap 40 to Medium,1,1,True,True
+15,Zandvoort,TSU,30,MEDIUM,15,56.67022398376466,60.50718704128266,lap 43 to Hard,lap 32 to Hard,1,1,False,True
+15,Zandvoort,ALB,30,HARD,17,57.938370498657235,63.0334089126587,lap 45 to Medium,lap 54 to Medium,1,1,True,True
+15,Zandvoort,ZHO,30,HARD,11,54.85861280822755,58.60912779235841,lap 46 to Medium,lap 51 to Soft,1,1,True,True
+15,Zandvoort,HUL,30,HARD,15,57.08063105010987,80.95853424072266,lap 43 to Medium,no further stops,1,0,False,True
+15,Zandvoort,HAM,30,HARD,6,51.75141027832032,55.29765585327149,lap 48 to Medium,lap 48 to Soft,1,1,True,False
+15,Zandvoort,RUS,30,HARD,4,50.15979650878907,52.75457456970216,lap 50 to Medium,lap 54 to Soft,1,1,True,False
+15,Zandvoort,BOT,30,HARD,14,56.56353453063966,56.58726290130616,lap 44 to Medium,lap 43 to Medium,1,1,True,True
+16,Monza,VER,30,HARD,7,21.84084129333496,37.062939037323005,no further stops,lap 41 to Medium,0,1,True,False
+16,Monza,RIC,30,HARD,19,39.11692415618897,32.39323425292969,lap 34 to Medium,no further stops,1,0,False,False
+16,Monza,NOR,30,HARD,15,28.26784324645996,38.1947636499405,no further stops,lap 32 to Hard,0,1,False,False
+16,Monza,GAS,30,HARD,19,39.11692415618897,32.39323425292969,lap 34 to Medium,no further stops,1,0,False,True
+16,Monza,PER,30,HARD,6,20.941085815429688,36.75205861473084,no further stops,lap 35 to Medium,0,1,True,False
+16,Monza,ALO,30,HARD,18,31.13258171081543,38.634039749145515,no further stops,lap 35 to Hard,0,1,False,False
+16,Monza,LEC,30,HARD,14,27.403512954711914,27.403512954711914,no further stops,no further stops,0,0,True,False
+16,Monza,STR,30,HARD,11,24.769569396972656,60.59108080852033,no further stops,"lap 36 to Medium, lap 50 to Soft",0,2,False,True
+16,Monza,MAG,30,HARD,15,28.26784324645996,28.26784324645996,no further stops,no further stops,0,0,True,False
+16,Monza,TSU,7,HARD,7,60.17747770690919,74.0229721069336,lap 27 to Medium,no further stops,1,0,False,True
+16,Monza,ALB,30,HARD,12,25.682100296020508,25.682100296020508,no further stops,no further stops,0,0,True,False
+16,Monza,ZHO,30,HARD,15,28.26784324645996,28.26784324645996,no further stops,no further stops,0,0,True,True
+16,Monza,HUL,30,HARD,24,39.890512336730964,38.75441347503663,lap 34 to Medium,lap 32 to Hard,1,1,False,True
+16,Monza,OCO,30,HARD,29,40.19131122970582,39.3076352968216,lap 34 to Medium,lap 31 to Medium,1,1,False,True
+16,Monza,COL,30,HARD,13,26.56077766418457,26.56077766418457,no further stops,no further stops,0,0,True,False
+16,Monza,HAM,30,HARD,14,27.403512954711914,38.226314414978035,no further stops,lap 37 to Hard,0,1,False,False
+16,Monza,SAI,30,HARD,10,24.076711654663086,24.076711654663086,no further stops,no further stops,0,0,True,False
+16,Monza,RUS,30,HARD,18,31.13258171081543,38.33836017990113,no further stops,lap 33 to Hard,0,1,False,False
+16,Monza,BOT,30,HARD,30,40.16856848144532,39.7750562324524,lap 34 to Medium,lap 33 to Medium,1,1,False,True
+16,Monza,PIA,30,HARD,13,26.56077766418457,38.19404446029664,no further stops,lap 38 to Hard,0,1,False,False
+17,Baku,VER,30,HARD,17,26.458349227905273,44.80338854336739,no further stops,lap 49 to Soft,0,1,False,False
+17,Baku,RIC,30,HARD,30,34.69536606216431,61.576084084749226,lap 34 to Medium,lap 49 to Soft,1,1,False,False
+17,Baku,NOR,30,HARD,29,34.71810881042481,36.728315986633305,lap 34 to Medium,lap 37 to Medium,1,1,True,False
+17,Baku,GAS,30,HARD,29,34.71810881042481,44.35866165161133,lap 34 to Medium,no further stops,1,0,False,False
+17,Baku,PER,30,HARD,16,25.721696853637695,25.721696853637695,no further stops,no further stops,0,0,True,True
+17,Baku,ALO,30,HARD,18,27.207271575927734,27.207271575927734,no further stops,no further stops,0,0,True,False
+17,Baku,LEC,30,HARD,13,23.348358154296875,23.348358154296875,no further stops,no further stops,0,0,True,False
+17,Baku,STR,30,HARD,7,19.145580291748047,19.145580291748047,no further stops,no further stops,0,0,True,True
+17,Baku,TSU,14,HARD,2,36.52019500732422,36.52019500732422,no further stops,no further stops,0,0,True,True
+17,Baku,ALB,30,HARD,29,34.71810881042481,33.654145039558415,lap 34 to Medium,lap 31 to Medium,1,1,False,False
+17,Baku,ZHO,30,HARD,30,34.69536606216431,34.69536606216431,lap 34 to Medium,lap 34 to Medium,1,1,True,False
+17,Baku,HUL,30,HARD,14,24.17258644104004,24.17258644104004,no further stops,no further stops,0,0,True,False
+17,Baku,OCO,30,HARD,32,35.30546347045899,65.09170908474923,lap 34 to Medium,lap 49 to Soft,1,1,False,True
+17,Baku,COL,30,HARD,19,28.27663230895996,28.27663230895996,no further stops,no further stops,0,0,True,False
+17,Baku,HAM,30,HARD,17,26.458349227905273,26.458349227905273,no further stops,no further stops,0,0,True,False
+17,Baku,BEA,30,HARD,15,24.9830265045166,24.9830265045166,no further stops,no further stops,0,0,True,False
+17,Baku,SAI,30,HARD,12,22.754411697387695,22.754411697387695,no further stops,no further stops,0,0,True,True
+17,Baku,RUS,30,HARD,17,26.458349227905273,26.458349227905273,no further stops,no further stops,0,0,True,False
+17,Baku,BOT,30,HARD,19,28.27663230895996,28.27663230895996,no further stops,no further stops,0,0,True,True
+17,Baku,PIA,30,HARD,14,24.17258644104004,24.17258644104004,no further stops,no further stops,0,0,True,False
+18,Singapore,VER,30,HARD,0,25.781295776367188,25.781295776367188,no further stops,no further stops,0,0,True,False
+18,Singapore,RIC,30,MEDIUM,19,51.99997007751463,82.42641746807095,lap 36 to Hard,"lap 46 to Soft, lap 58 to Soft",1,2,False,True
+18,Singapore,PER,30,HARD,1,27.0517635345459,27.0517635345459,no further stops,no further stops,0,0,True,True
+18,Singapore,ALO,30,HARD,5,32.69321060180664,32.69321060180664,no further stops,no further stops,0,0,True,True
+18,Singapore,STR,30,MEDIUM,4,46.729055522918685,31.91170883178711,lap 42 to Hard,no further stops,1,0,False,True
+18,Singapore,MAG,30,MEDIUM,1,44.28789198303221,45.826793788909896,lap 45 to Hard,lap 49 to Soft,1,1,True,True
+18,Singapore,ALB,15,HARD,3,61.51183187866209,66.0352783203125,lap 37 to Medium,no further stops,1,0,False,True
+18,Singapore,ZHO,30,HARD,29,54.006107448577865,54.006107448577865,lap 34 to Medium,lap 34 to Medium,1,1,True,True
+18,Singapore,HUL,30,HARD,0,25.781295776367188,25.781295776367188,no further stops,no further stops,0,0,True,True
+18,Singapore,OCO,30,HARD,0,25.781295776367188,25.781295776367188,no further stops,no further stops,0,0,True,True
+18,Singapore,COL,30,HARD,0,25.781295776367188,25.781295776367188,no further stops,no further stops,0,0,True,True
+18,Singapore,HAM,30,HARD,12,50.85065805816649,43.50640869140625,lap 40 to Medium,no further stops,1,0,False,False
+18,Singapore,SAI,30,HARD,16,51.96057093048094,52.550968170166016,lap 38 to Medium,no further stops,1,0,False,False
+18,Singapore,RUS,30,HARD,2,28.352689743041992,28.352689743041992,no further stops,no further stops,0,0,True,False
+18,Singapore,BOT,30,HARD,29,54.006107448577865,54.03116285705565,lap 34 to Medium,lap 33 to Medium,1,1,False,True
+19,Austin,VER,30,HARD,4,22.87042236328125,22.87042236328125,no further stops,no further stops,0,0,True,False
+19,Austin,GAS,30,HARD,11,29.59746551513672,29.59746551513672,no further stops,no further stops,0,0,True,False
+19,Austin,PER,30,HARD,3,21.676620483398438,21.676620483398438,no further stops,no further stops,0,0,True,False
+19,Austin,ALO,30,HARD,4,22.87042236328125,22.87042236328125,no further stops,no further stops,0,0,True,True
+19,Austin,LEC,30,HARD,3,21.676620483398438,21.676620483398438,no further stops,no further stops,0,0,True,False
+19,Austin,STR,30,MEDIUM,2,21.019445419311523,21.019445419311523,no further stops,no further stops,0,0,True,True
+19,Austin,MAG,30,HARD,12,30.582366943359375,37.03473706817627,no further stops,lap 38 to Medium,0,1,True,False
+19,Austin,TSU,30,HARD,11,29.59746551513672,29.59746551513672,no further stops,no further stops,0,0,True,True
+19,Austin,ALB,30,MEDIUM,26,38.899266677856446,38.57032628631592,lap 34 to Hard,lap 33 to Hard,1,1,False,True
+19,Austin,ZHO,30,MEDIUM,16,37.34911127662659,37.36616941070557,lap 34 to Hard,lap 35 to Hard,1,1,True,True
+19,Austin,HUL,30,HARD,2,20.427337646484375,20.427337646484375,no further stops,no further stops,0,0,True,False
+19,Austin,LAW,30,HARD,29,39.27400870895386,40.123207527160645,lap 34 to Medium,lap 36 to Medium,1,1,True,False
+19,Austin,COL,30,HARD,29,39.27400870895386,42.18806453323364,lap 34 to Medium,lap 39 to Medium,1,1,True,False
+19,Austin,HAM,1,HARD,0,60.1732420501709,81.47905731201172,lap 29 to Medium,no further stops,1,0,False,True
+19,Austin,SAI,30,HARD,8,26.56218910217285,26.56218910217285,no further stops,no further stops,0,0,True,False
+19,Austin,RUS,30,HARD,29,39.27400870895386,42.95750279998779,lap 34 to Medium,lap 40 to Medium,1,1,True,False
+19,Austin,BOT,30,HARD,14,32.72953414916992,32.72953414916992,no further stops,no further stops,0,0,True,True
+20,Mexico City,VER,30,HARD,3,48.371201164245605,47.68144989013672,lap 49 to Medium,no further stops,1,0,False,False
+20,Mexico City,GAS,30,HARD,1,46.37322104644775,42.65300369262695,lap 50 to Medium,no further stops,1,0,False,True
+20,Mexico City,PER,30,MEDIUM,9,52.37952197265625,72.1373202189207,lap 45 to Hard,"lap 43 to Medium, lap 68 to Soft",1,2,False,True
+20,Mexico City,ALO,15,MEDIUM,15,77.04262316894531,123.67229461669922,lap 31 to Hard,no further stops,1,0,False,True
+20,Mexico City,STR,30,HARD,4,49.27841914367676,50.58076095581055,lap 49 to Medium,no further stops,1,0,False,True
+20,Mexico City,ZHO,30,HARD,30,60.91251433563232,64.13452876281738,lap 39 to Medium,lap 43 to Medium,1,1,False,True
+20,Mexico City,HUL,30,HARD,0,40.50187683105469,40.50187683105469,no further stops,no further stops,0,0,True,True
+20,Mexico City,LAW,30,HARD,29,60.595712310791015,75.65790738010406,lap 39 to Medium,"lap 39 to Medium, lap 65 to Soft",1,2,True,True
+20,Mexico City,OCO,30,HARD,29,60.595712310791015,71.38713706207275,lap 39 to Medium,lap 48 to Medium,1,1,False,True
+20,Mexico City,COL,30,HARD,29,60.595712310791015,69.41243518066406,lap 39 to Medium,lap 47 to Medium,1,1,False,True
+20,Mexico City,HAM,30,HARD,1,46.37322104644775,42.65300369262695,lap 50 to Medium,no further stops,1,0,False,False
+20,Mexico City,BOT,30,HARD,30,60.91251433563232,75.06840098571777,lap 39 to Medium,lap 49 to Medium,1,1,False,True
+22,Las Vegas,VER,30,HARD,2,13.341545104980469,13.341545104980469,no further stops,no further stops,0,0,True,False
+22,Las Vegas,NOR,30,HARD,20,27.268293380737305,45.411470284700385,no further stops,lap 48 to Soft,0,1,False,False
+22,Las Vegas,GAS,15,HARD,4,36.26802062988281,36.26802062988281,no further stops,no further stops,0,0,True,True
+22,Las Vegas,PER,30,MEDIUM,12,31.62092216873168,31.69740255737304,lap 34 to Hard,lap 32 to Hard,1,1,False,False
+22,Las Vegas,ALO,30,HARD,6,17.016393661499023,17.016393661499023,no further stops,no further stops,0,0,True,False
+22,Las Vegas,LEC,30,HARD,20,27.268293380737305,32.09090932273864,no further stops,lap 31 to Hard,0,1,False,False
+22,Las Vegas,STR,30,HARD,1,12.3041410446167,12.3041410446167,no further stops,no further stops,0,0,True,False
+22,Las Vegas,MAG,30,HARD,12,21.457359313964844,21.457359313964844,no further stops,no further stops,0,0,True,False
+22,Las Vegas,TSU,30,HARD,1,12.3041410446167,12.3041410446167,no further stops,no further stops,0,0,True,False
+22,Las Vegas,ALB,25,HARD,15,31.924522399902344,31.924522399902344,no further stops,no further stops,0,0,True,True
+22,Las Vegas,ZHO,30,HARD,18,25.53700828552246,32.35266836547851,no further stops,lap 34 to Hard,0,1,False,False
+22,Las Vegas,HUL,30,HARD,15,23.367576599121094,31.931678375244132,no further stops,lap 33 to Hard,0,1,False,False
+22,Las Vegas,LAW,30,HARD,19,26.29021644592285,34.22406323814391,no further stops,lap 38 to Hard,0,1,False,False
+22,Las Vegas,OCO,30,HARD,17,24.78900909423828,39.549879273414604,no further stops,lap 45 to Soft,0,1,True,True
+22,Las Vegas,COL,30,HARD,3,14.315905570983887,14.315905570983887,no further stops,no further stops,0,0,True,False
+22,Las Vegas,HAM,30,HARD,3,14.315905570983887,14.315905570983887,no further stops,no further stops,0,0,True,False
+22,Las Vegas,SAI,30,HARD,1,12.3041410446167,12.3041410446167,no further stops,no further stops,0,0,True,False
+22,Las Vegas,RUS,30,HARD,18,25.53700828552246,32.0589296426773,no further stops,lap 32 to Hard,0,1,False,False
+22,Las Vegas,BOT,30,MEDIUM,12,31.62092216873168,31.772623142242423,lap 34 to Hard,lap 35 to Hard,1,1,True,True
+22,Las Vegas,PIA,30,HARD,4,15.223123550415039,15.223123550415039,no further stops,no further stops,0,0,True,False
+23,Lusail,STR,8,HARD,0,60.023604965209955,63.125205993652344,lap 32 to Medium,no further stops,1,0,False,True
+23,Lusail,MAG,30,HARD,2,21.769136428833008,68.83001391850411,no further stops,"lap 36 to Hard, lap 37 to Hard",0,2,False,False
+23,Lusail,HUL,30,HARD,28,47.620971775054926,97.70849262103437,lap 34 to Medium,"lap 31 to Medium, lap 36 to Medium, lap 37 to Medium",1,3,False,False
+23,Lusail,RUS,30,HARD,6,26.193923950195312,98.17116880342363,no further stops,"lap 35 to Hard, lap 36 to Hard, lap 37 to Hard",0,3,False,False
+23,Lusail,BOT,30,HARD,5,25.23754119873047,71.05332747921346,no further stops,"lap 35 to Medium, lap 36 to Medium",0,2,False,False
+24,Yas Marina Circuit,VER,30,HARD,0,20.483713150024414,20.483713150024414,no further stops,no further stops,0,0,True,False
+24,Yas Marina Circuit,NOR,30,HARD,3,24.335023880004883,24.335023880004883,no further stops,no further stops,0,0,True,False
+24,Yas Marina Circuit,GAS,30,HARD,15,42.187435607910146,38.576271057128906,lap 36 to Medium,no further stops,1,0,False,False
+24,Yas Marina Circuit,ALO,30,HARD,17,42.5120177078247,42.00999210357665,lap 36 to Medium,lap 37 to Hard,1,1,False,False
+24,Yas Marina Circuit,LEC,30,HARD,9,30.853723526000977,30.853723526000977,no further stops,no further stops,0,0,True,False
+24,Yas Marina Circuit,STR,30,HARD,19,42.8237156677246,42.30824945449828,lap 35 to Medium,lap 32 to Hard,1,1,False,True
+24,Yas Marina Circuit,MAG,30,HARD,0,20.483713150024414,40.448579694628705,no further stops,lap 55 to Soft,0,1,False,True
+24,Yas Marina Circuit,TSU,30,HARD,7,28.667903900146484,28.667903900146484,no further stops,no further stops,0,0,True,True
+24,Yas Marina Circuit,ALB,30,HARD,17,42.5120177078247,42.44136047363281,lap 36 to Medium,no further stops,1,0,False,True
+24,Yas Marina Circuit,ZHO,30,HARD,17,42.5120177078247,42.453740577697744,lap 36 to Medium,lap 39 to Hard,1,1,False,True
+24,Yas Marina Circuit,HUL,30,HARD,16,42.37782953262328,40.31507873535156,lap 36 to Medium,no further stops,1,0,False,False
+24,Yas Marina Circuit,LAW,30,HARD,6,27.524642944335938,27.524642944335938,no further stops,no further stops,0,0,True,True
+24,Yas Marina Circuit,COL,26,HARD,22,47.95094249725341,65.02214813232422,lap 31 to Medium,no further stops,1,0,False,True
+24,Yas Marina Circuit,HAM,30,HARD,29,43.915494899749746,43.915494899749746,lap 34 to Medium,lap 34 to Medium,1,1,True,False
+24,Yas Marina Circuit,SAI,30,HARD,4,25.47274398803711,25.47274398803711,no further stops,no further stops,0,0,True,False
+24,Yas Marina Circuit,DOO,30,HARD,7,28.667903900146484,28.667903900146484,no further stops,no further stops,0,0,True,True
+24,Yas Marina Circuit,RUS,30,HARD,3,24.335023880004883,24.335023880004883,no further stops,no further stops,0,0,True,False
+24,Yas Marina Circuit,BOT,30,HARD,23,43.383194427490224,54.778350830078125,lap 34 to Medium,no further stops,1,0,False,True
+24,Yas Marina Circuit,PIA,30,HARD,25,43.855874519348134,42.81691453933715,lap 34 to Medium,lap 32 to Hard,1,1,False,False
